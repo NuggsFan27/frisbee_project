@@ -1,0 +1,75 @@
+
+/* Header Navigation Styles */
+
+body > header > nav.horizontal li {
+	display: block;
+	float: left;
+	position: relative;
+	width: 14.2857%;
+	text-align: center;
+	margin: 0;
+}
+
+body > header > nav.horizontal li a {
+	background-color: rgb(51, 51, 51);
+	color: rgb(195,183,15);
+	display: block;
+	height: 3em;
+	line-height: 3em;
+	font-size: 1.2em;
+	letter-spacing: 0.15em;
+	text-align: center;
+	width: 100%;
+	margin: 0;
+}
+body {
+   font-family: verdana;
+   font-size: 12px;
+   background-color: rgb(90,170,149);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  }
+h2 {
+  color: black;
+  text-align: center;
+  }
+h4 {
+  color: black;
+  text-align: left;
+  }
+h5 {
+  color: black;
+  text-align: left;
+  }
+/* Article Styles */
+article#ultimate_history h1 {
+font-size: 2.2em;
+letter-spacing: 0.2em;
+text-align: center;
+}
+
+/* Footer Style*/ 
+footer {
+	position: fixed;
+	background-color: rgb(51, 51, 51);
+	color: rgb(195,183,15);
+	left: 0;
+	bottom:0;
+	width: 100%;
+	text-align: center;
+	}
+	
+blockquote{
+background-color: rgb(173, 189, 227);
+color: rgba(255, 255, 255, 0.65);
+}
+blockquote p{
+padding-top: 2.5px;
+padding-bottom: 2.5px;
+padding-left: 10px;
+padding-right: 10px;
+text-align: center;
+}

@@ -1,0 +1,12 @@
+img {
+  display: block;
+  width: 700px;
+  height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body > footer {
+	clear: left;
+	width: 100%;
+}
